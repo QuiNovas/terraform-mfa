@@ -1,4 +1,7 @@
 # terraform-mfa
+
+This project has been archived and will no longer be maintained. Use https://github.com/99designs/aws-vault instead - a much better implementation and significantly more flexible.
+
 ## Script work-around for MFA-required assumption of roles
 
 This is designed to be used when you enforce MFA on all users, including their use of the AWS API.
